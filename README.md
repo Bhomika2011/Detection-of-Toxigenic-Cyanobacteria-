@@ -2,8 +2,8 @@
 
 This repository presents two deep learning models to classify toxigenic cyanobacteria from RGB microscopic images based on their morphology:
 
-- **MobileNet** model implemented in `mobilenet_rgb.ipynb`
-- **MobileNetV2** model implemented in `Summer.ipynb`
+- **MobileNet** model implemented in `mobilenet.ipynb`
+- **MobileNetV2** model implemented in `mobilenetV2.ipynb`
 
 Both models utilize transfer learning and are trained on RGB images of cyanobacteria to classify genera for water quality monitoring purposes.
 
